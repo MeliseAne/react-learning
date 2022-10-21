@@ -1,8 +1,18 @@
 .header {
   grid-area: h;
-  background-color: aqua;
+  background-color: #20a4ce;
+  /*border-bottom: 1px solid #8ed1fc;*/
+  color: white;
 }
-
+.head {
+  display: flex;
+  padding: 10px;
+}
+.logoImg img {
+  width: 30px;
+  height: 30px;
+  padding-right: 10px;
+}
 .header img {
-  width: 20px;
+
 }
